@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaidan</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
-<img src="https://www.gifcen.com/wp-content/uploads/2022/10/chainsaw-man-gif-18.gif" height="264" width="480">
+<img src="https://www.gifcen.com/wp-content/uploads/2022/10/chainsaw-man-gif-18.gif" height="264" width="480" align-item="center">
 
 - 📫 How to reach me **zaidanmhdi@gmail.com**
 
