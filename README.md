@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaidan</h1>
+<h1 align="center">Hi, I'm Zaidan</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 <div style="text-align:center;">
   <img src="https://www.gifcen.com/wp-content/uploads/2022/10/chainsaw-man-gif-18.gif" alt="Chainsaw Man" height="264" width="480">
