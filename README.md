@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zaidan</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 <img src="https://giphy.com/embed/KOCLgcdTywdVsjUevp" height="264" width="480"
-frameBorder="0" class="giphy-embed" allowFullScreen>
+frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/swaps4-KOCLgcdTywdVsjUevp">via GIPHY</a></p>
+
 
 - 📫 How to reach me **zaidanmhdi@gmail.com**
 
