@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaidan</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/KOCLgcdTywdVsjUevp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/swaps4-KOCLgcdTywdVsjUevp">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/KOCLgcdTywdVsjUevp">
 
 - 📫 How to reach me **zaidanmhdi@gmail.com**
 
